@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @VigneshIyer25
+- 👋 Hi, I’m @vgnshiyer
 - 👀 I’m interested in developing technologies that take the human race forward.
-- 🌱 I’m currently doing a masters in software engineering from Arizona State University.
-- 💞️ I’m looking to collaborate on software development projects, contribute to open source and part-time jobs as a Developer.
+- 🌱 I’m currently pursuing my masters in software engineering from Arizona State University.
+- 💞️ I’m looking to collaborate on software development projects, contribute to open source and intern as a Software Engineer.
 - 📫 How to reach me : Drop me an email at vgnshiyer@asu.edu
 
 <!---
