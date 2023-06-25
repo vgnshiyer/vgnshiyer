@@ -1,3 +1,5 @@
+![Blue Simple LinkedIn Banner](https://github.com/vgnshiyer/vgnshiyer/assets/39982819/28654f07-f9d5-44bf-b9d9-1e5e4b8e784f)
+
 <h1 align="center">Hi 👋, I'm @vgnshiyer</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vgnshiyer&label=Visitors&color=brightgreen&style=flat" alt="vgnshiyer" /> </p>
 
