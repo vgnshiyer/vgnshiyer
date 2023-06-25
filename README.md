@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @vgnshiyer
+<h1 align="center">Hi 👋, I'm @vgnshiyer</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vgnshiyer&label=Visitors&color=brightgreen&style=flat" alt="vgnshiyer" /> </p>
 
-- 👀 I’m excited to explore the vast possibilities of technological advancements that can propel the human race forward towards a brighter future. Whether it's harnessing the power of artificial intelligence, revolutionizing communication systems, or designing sustainable solutions, I'm driven to contribute to these transformative endeavors.
+<h2>I'm currently learning 📖 </h2>
 
-- 🌱 As a passionate learner, I'm currently immersed in pursuing my masters in software engineering from Arizona State University, where I am gaining comprehensive knowledge and practical skills in various facets of software development. This academic journey is equipping me with the necessary tools to tackle complex challenges and innovate in the field of technology.
+- Learning to build backend applications in Go 💻
+- gRPC, Redis 🎯
+- about nutrition and body recomposition 💪
 
-- 💞️ I strongly believe in the power of collaboration and collective intelligence. I'm eager to collaborate with like-minded individuals on software development projects that push boundaries, challenge the status quo, and make a positive impact on the society. By joining forces, we can leverage our diverse expertise and create groundbreaking solutions that shape the future.
+<h2>About Me 🙋🏻‍♂️ </h2>
+
+- 👀 I’m excited to explore the vast possibilities of technology that can propel the human race forward towards a brighter future. 
+
+- 🌱 I'm currently pursuing my masters in software engineering from Arizona State University, where I am gaining comprehensive knowledge and practical skills in various facets of software development. 
+
+- 💞️ I strongly believe in the power of collaboration and collective intelligence. I'm eager to collaborate with like-minded individuals on software development projects that push boundaries, challenge the status quo, and make a positive impact on the society. By joining forces, we can do something great!
 
 - 📫 I'm always open to new opportunities and connections. If you are interested in collaborating, discussing ideas, or exploring potential software development projects, please don't hesitate to reach out to me. Feel free to drop me an email at vgnshiyer@asu.edu, and I will be delighted to connect with you.
+
+<h2>Find me on the web 🌎 </h2>
+
+- Posting content on <a href="https://www.linkedin.com/in/vgnshiyer/">linkedin</a> 🧑🏻‍💻
+- Sharing updates on my <a href="https://vgnshiyer.github.io/">website</a> ✍️
+- Trying to be active on <a href="https://twitter.com/vgnshiyer">twitter</a>
 
 <!---
 VigneshIyer25/VigneshIyer25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
