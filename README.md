@@ -23,7 +23,8 @@
 
 - Posting content on <a href="https://www.linkedin.com/in/vgnshiyer/">linkedin</a> 🧑🏻‍💻
 - Sharing updates on my <a href="https://vgnshiyer.github.io/">website</a> ✍️
-- Trying to be active on <a href="https://twitter.com/vgnshiyer">twitter</a>
+- Solving <a href="">leetcode</a> challenges 🔨
+- Trying to be active on <a href="https://twitter.com/vgnshiyer">twitter</a> 🥲
 
 <!---
 VigneshIyer25/VigneshIyer25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
