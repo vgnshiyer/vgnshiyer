@@ -5,7 +5,7 @@
 
 <h2>I'm currently learning 📖 </h2>
 
-- Learning to build backend applications in Go 💻
+- to build backend applications in Go 💻
 - gRPC, Redis 🎯
 - about nutrition and body recomposition 💪
 
