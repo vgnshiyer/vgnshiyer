@@ -1,14 +1,18 @@
 ![Blue Simple LinkedIn Banner](https://github.com/vgnshiyer/vgnshiyer/assets/39982819/28654f07-f9d5-44bf-b9d9-1e5e4b8e784f)
 
-<h1 align="center">Hi 👋, I'm @vgnshiyer</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vgnshiyer&label=Visitors&color=brightgreen&style=flat" alt="vgnshiyer" /> </p>
+<!-- HEADING SECTION -->
+<h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=D6543C&center=true&width=435&lines=Hi!%F0%9F%91%8B+I'm+%40vgnshiyer" alt="Typing SVG" /></h1>
+
+<!-- MISC SECTION -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vgnshiyer&label=Visitors&color=brightgreen&style=flat" alt="vgnshiyer" /> <img src="https://img.shields.io/badge/opensource-❤-red.svg" alt="opensource" /> </p>
 
 <h2>I'm currently learning 📖 </h2>
 
-- to build backend applications / REST API in Go 💻
+- to build back️end applications / REST API in Go 💻
 - gRPC, go-fiber, Redis 🎯
 - about nutrition and body recomposition 💪
 
+<!-- ABOUT SECTION -->
 <h2>About Me 🙋🏻‍♂️ </h2>
 
 - 👀 I’m excited to explore the vast possibilities of technology that can propel the human race forward towards a brighter future. 
@@ -19,6 +23,7 @@
 
 - 📫 I'm always open to new opportunities and connections. If you are interested in collaborating, discussing ideas, or exploring potential software development projects, please don't hesitate to reach out to me. Feel free to drop me an email at vgnshiyer@asu.edu, and I will be delighted to connect with you.
 
+<!-- SOCIAL HANDLES SECTION -->
 <h2>Find me on the web 🌎 </h2>
 
 - Posting content on <a href="https://www.linkedin.com/in/vgnshiyer/">linkedin</a> 🧑🏻‍💻
