@@ -13,7 +13,7 @@
 - about nutrition and body recomposition 💪
 
 <!-- ABOUT SECTION -->
-<h2>About Me 🙋🏻‍♂️ </h2>
+<h2>About Me 🙋🏻‍♂️</h2>
 
 - 👀 I’m excited to explore the vast possibilities of technology that can propel the human race forward towards a brighter future. 
 
