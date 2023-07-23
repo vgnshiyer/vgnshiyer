@@ -10,6 +10,7 @@
 
 - to build back️end applications / REST API in Go 💻
 - gRPC, go-fiber, Redis 🎯
+- practicing Data Structures and algorithms 📚
 - about nutrition and body recomposition 💪
 
 <!-- ABOUT SECTION -->
