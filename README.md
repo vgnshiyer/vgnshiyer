@@ -10,6 +10,7 @@
 
 - to build back️end applications / REST/RPC API in Go 💻
 - gRPC, Redis 🎯
+- Learning to build reliable distributed systems 💪🏻
 - practicing Data Structures and algorithms 📚
 - about nutrition and body recomposition 💪
 
