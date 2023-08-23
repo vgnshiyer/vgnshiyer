@@ -8,8 +8,8 @@
 
 <h2>I'm currently learning 📖 </h2>
 
-- to build back️end applications / REST API in Go 💻
-- gRPC, go-fiber, Redis 🎯
+- to build back️end applications / REST/RPC API in Go 💻
+- gRPC, Redis 🎯
 - practicing Data Structures and algorithms 📚
 - about nutrition and body recomposition 💪
 
