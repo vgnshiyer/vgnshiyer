@@ -9,9 +9,9 @@
 <h2>I'm currently learning 📖 </h2>
 
 - to build back️end applications / REST/RPC API in Go 💻
-- gRPC, Redis 🎯
+- gRPC 🎯
 - to build large-scale distributed systems 💪🏻
-- practicing Data Structures and algorithms 📚
+- practicing Dynamic Programming 📚
 - about nutrition and body recomposition 💪
 
 <!-- ABOUT SECTION -->
