@@ -8,10 +8,9 @@
 
 <h2>I'm currently learning 📖 </h2>
 
-- to build back️end applications / REST/RPC API in Go 💻
-- gRPC 🎯
-- to build large-scale distributed systems 💪🏻
-- practicing Dynamic Programming 📚
+- practicing spring boot Rest and GraphQL api's 💻
+- experimenting with LLM's 🎯
+- practicing Graph problems on leetcode 📚
 - about nutrition and body recomposition 💪
 
 <!-- ABOUT SECTION -->
