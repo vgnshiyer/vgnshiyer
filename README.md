@@ -11,7 +11,6 @@
 - practicing spring boot Rest and GraphQL api's 💻
 - experimenting with LLM's 🎯
 - practicing Graph problems on leetcode 📚
-- learning Vim 😥
 <!-- ABOUT SECTION -->
 <h2>About Me 🙋🏻‍♂️</h2>
 
