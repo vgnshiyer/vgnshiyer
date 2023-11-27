@@ -29,7 +29,6 @@
 - Sharing updates on my <a href="https://vgnshiyer.github.io/">website</a> ✍️
 - Solving <a href="https://leetcode.com/vgnshiyer/">leetcode</a> challenges 🔨
 - Trying to be active on <a href="https://twitter.com/vgnshiyer">twitter</a> 🥲
-- You can (NOT) find me on Instagram or Facebook. 💁🏼‍♂️
 <!---
 VigneshIyer25/VigneshIyer25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
