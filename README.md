@@ -11,6 +11,8 @@
 - practicing spring boot Rest and GraphQL api's 💻
 - experimenting with LLM's 🎯
 - practicing Graph problems on leetcode 📚
+- learning python object oriented 📝
+
 <!-- ABOUT SECTION -->
 <h2>About Me 🙋🏻‍♂️</h2>
 
