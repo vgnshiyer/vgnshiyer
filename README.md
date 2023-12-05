@@ -25,7 +25,7 @@
 - 📫 I'm always open to new opportunities and connections. If you are interested in collaborating, discussing ideas, or exploring potential software development projects, please don't hesitate to reach out to me. Feel free to drop me an email at vgnshiyer@asu.edu, and I will be delighted to connect with you.
 
 <!-- SOCIAL HANDLES SECTION -->
-<h2>Find me on the web 🌎 </h2>
+<h2>Find me on the web: 🌎 </h2>
 
 - Posting content on <a href="https://www.linkedin.com/in/vgnshiyer/">linkedin</a> 🧑🏻‍💻
 - Sharing updates on my <a href="https://vgnshiyer.github.io/">website</a> ✍️
