@@ -10,7 +10,7 @@
 
 - practicing spring boot Rest and GraphQL api's 💻
 - experimenting with LLM's 🎯
-- practicing System Design 📚
+- practicing System Design. 📚
 - learning python object oriented 📝
 
 <!-- ABOUT SECTION -->
