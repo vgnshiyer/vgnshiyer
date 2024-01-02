@@ -8,7 +8,7 @@
 
 <h2>I'm currently learning 📖 </h2>
 
-- practicing spring boot Rest and GraphQL api's 💻
+- Reading data intensive applications 📖
 - experimenting with LLM's 🎯
 - practicing System Design 📚
 - learning python object oriented 📝
