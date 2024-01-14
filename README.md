@@ -5,6 +5,7 @@
 
 <!-- MISC SECTION -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vgnshiyer&label=Visitors&color=brightgreen&style=flat" alt="vgnshiyer" /> <img src="https://img.shields.io/badge/opensource-❤-red.svg" alt="opensource" /> </p>
+
 [![](https://img.shields.io/badge/Follow-vgnshiyer-0A66C2?logo=linkedin)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vgnshiyer)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow.svg?logo=buymeacoffee)](https://www.buymeacoffee.com/vgnshiyer)
 
