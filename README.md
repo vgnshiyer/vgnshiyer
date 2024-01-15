@@ -10,17 +10,14 @@
   <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vgnshiyer">
     <img src="https://img.shields.io/badge/Follow-vgnshiyer-0A66C2?logo=linkedin" alt="Follow vgnshiyer on LinkedIn">
   </a>
-  <a href="https://www.buymeacoffee.com/vgnshiyer">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow.svg?logo=buymeacoffee" alt="Buy Me A Coffee">
-  </a>
 </p>
 
 <h2>I'm currently learning 📖 </h2>
 
 - Reading data intensive applications 📖
-- experimenting with LLM's 🎯
+- exploring new ideas 🎯
 - practicing System Design 📚
-- learning python object oriented 📝
+- learning web development 📝
 
 <!-- ABOUT SECTION -->
 <h2>About Me 🙋🏻‍♂️</h2>
@@ -37,9 +34,22 @@
 <h2>Find me on the web: 🌎 </h2>
 
 - Posting content on <a href="https://www.linkedin.com/in/vgnshiyer/">linkedin</a> 🧑🏻‍💻
-- Sharing updates on my <a href="https://vgnshiyer.github.io/">website</a> ✍️
+- Writing software engineering blogs on my <a href="https://vgnshiyer.github.io/">website</a> ✍️
 - Solving <a href="https://leetcode.com/vgnshiyer/">leetcode</a> challenges 🔨
 - Trying to be active on <a href="https://twitter.com/vgnshiyer">twitter</a> 🥲
+
+<h3>Visit my <a href="https://vgnshiyer.dev/links" style="color: white;">My link tree 🌳</a></h3>
+
+If you like what I do, consider supporting me by buying me a coffee. Your generosity keeps me motivated to post content, contribute to open source and build new things.
+
+<a href="https://www.buymeacoffee.com/vgnshiyer" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
+        alt="Buy Me A Coffee" 
+        style="height: 55px; width: 200px; margin-left:15px;" 
+        className="mt-0">
+    </img>
+</a>
+
 <!---
 VigneshIyer25/VigneshIyer25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
