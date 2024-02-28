@@ -15,7 +15,7 @@
 <h2>I'm currently learning 📖 </h2>
 
 - Reading data intensive applications 📖
-- exploring new ideas 🎯
+- exploring new ideas. 🎯
 - practicing System Design 📚
 - learning rust 📝
 
