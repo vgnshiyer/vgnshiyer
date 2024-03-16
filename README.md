@@ -17,7 +17,7 @@
 - Reading data intensive applications 📖
 - exploring new ideas 🎯
 - practicing System Design 📚
-- learning rust. 📝
+- learning rust 📝
 
 <!-- ABOUT SECTION -->
 <h2>About Me 🙋🏻‍♂️</h2>
