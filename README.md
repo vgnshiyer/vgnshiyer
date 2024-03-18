@@ -14,7 +14,7 @@
 
 <h2>I'm currently learning 📖 </h2>
 
-- Reading data intensive applications 📖
+- [Accounting](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjyh6_LoP6EAxWyIUQIHXHHD3oQFnoECA8QAQ&url=https%3A%2F%2Fenglianhu.files.wordpress.com%2F2016%2F03%2Ffinancial-statements-a-step-by-step-guide-to-understanding-and-creating-financial-reports.pdf&usg=AOvVaw0zAwXqzV1Y4NPxhV2xdYyz&opi=89978449) 📖
 - exploring new ideas 🎯
 - practicing System Design 📚
 - learning rust. 📝
