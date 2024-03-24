@@ -16,7 +16,6 @@
 
 - Learning basic networking stuff 📖
 - exploring new ideas 🎯
-- practicing System Design 📚
 - learning rust 📝
 
 <!-- ABOUT SECTION -->
