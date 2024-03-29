@@ -34,8 +34,8 @@
 
 - Posting content on <a href="https://www.linkedin.com/in/vgnshiyer/">linkedin</a> 🧑🏻‍💻
 - Writing software engineering blogs on my <a href="https://vgnshiyer.github.io/">website</a> ✍️
-- Solving <a href="https://leetcode.com/vgnshiyer/">leetcode</a> challenges 🔨
 - Trying to be active on <a href="https://twitter.com/vgnshiyer">twitter</a>. 🥲
+<!-- - Solving <a href="https://leetcode.com/vgnshiyer/">leetcode</a> challenges 🔨 -->
 
 <h3>Visit <a href="https://vgnshiyer.dev/links" style="color: white;">My link tree 🌳</a></h3>
 
