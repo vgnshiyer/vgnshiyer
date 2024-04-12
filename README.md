@@ -16,7 +16,7 @@
 
 - Learning basic networking stuff 📖
 - exploring new ideas 🎯
-- learning rust 📝
+- learning [rust](https://github.com/vgnshiyer/learn-rust) 📝
 
 <!-- ABOUT SECTION -->
 <h2>About Me 🙋🏻‍♂️</h2>
