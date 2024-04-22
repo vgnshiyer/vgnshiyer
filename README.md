@@ -14,7 +14,7 @@
 
 <h2>I'm currently learning 📖 </h2>
 
-- Learning basic networking stuff 📖
+- Learning basic networking stuff. 📖
 - exploring new ideas 🎯
 - learning [rust](https://github.com/vgnshiyer/learn-rust) 📝
 
