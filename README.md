@@ -15,7 +15,7 @@
 <h2>I'm currently learning 📖 </h2>
 
 - Learning basic [networking](https://www.youtube.com/watch?v=S7MNX_UD7vY&list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P) stuff 📖
-- exploring new ideas. 🎯
+- exploring new ideas 🎯
 - learning [rust](https://github.com/vgnshiyer/learn-rust) 📝
 
 <!-- ABOUT SECTION -->
