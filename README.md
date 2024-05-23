@@ -16,7 +16,7 @@
 
 - Learning basic [networking](https://www.youtube.com/watch?v=S7MNX_UD7vY&list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P) stuff 📖
 - exploring new ideas 🎯
-- learning [rust](https://github.com/vgnshiyer/learn-rust) 📝
+- solving [AdventOfCode](https://github.com/vgnshiyer/dsa-problem-sets/tree/main/AOC/2015) 📝
 
 <!-- ABOUT SECTION -->
 <h2>About Me 🙋🏻‍♂️</h2>
