@@ -21,17 +21,17 @@
 
 - 👀 I’m excited to explore the vast possibilities of technology that can propel the human race forward towards a brighter future. 
 
-- 🌱 I'm currently pursuing my masters in software engineering from Arizona State University, where I am gaining comprehensive knowledge and practical skills in various facets of software development. 
+- 🎯 My life's mission is to write high-quality applications available to everyone. I believe great software should be free to use and modify, and I am committed to contributing to the open-source community.
 
-- 💞️ I strongly believe in the power of collaboration and collective intelligence. I'm eager to collaborate with like-minded individuals on software development projects that push boundaries, challenge the status quo, and make a positive impact on the society. By joining forces, we can do something great!
+- 📫 I'm always open to new opportunities and connecting with like-minded individuals. If you are interested in collaborating, discussing ideas, or exploring potential software development projects, please don't hesitate to reach out to me. Let's join forces together and build something wonderful.
 
-- 📫 I'm always open to new opportunities and connections. If you are interested in collaborating, discussing ideas, or exploring potential software development projects, please don't hesitate to reach out to me. Feel free to drop me an email at vgnshiyer@asu.edu, and I will be delighted to connect with you.
+- Feel free to drop me an email at vgnshiyer@asu.edu.
 
 <!-- SOCIAL HANDLES SECTION -->
 <h2>Find me on the web: 🌎 </h2>
 
 - Posting content on <a href="https://www.linkedin.com/in/vgnshiyer/">linkedin</a> 🧑🏻‍💻
-- Writing software engineering blogs on my <a href="https://vgnshiyer.github.io/">website</a> ✍️
+- Writing software engineering blogs on my <a href="https://vgnshiyer.github.io/">website</a> ✍️ My blog is mostly notes for self.
 - Trying to be active on <a href="https://twitter.com/vgnshiyer">twitter</a> 🥲
 <!-- - Solving <a href="https://leetcode.com/vgnshiyer/">leetcode</a> challenges 🔨 -->
 
