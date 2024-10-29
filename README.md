@@ -35,7 +35,7 @@
 - Trying to be active on <a href="https://twitter.com/vgnshiyer">twitter</a> 🥲
 <!-- - Solving <a href="https://leetcode.com/vgnshiyer/">leetcode</a> challenges 🔨 -->
 
-<h3>Visit <a href="https://vgnshiyer.dev/links" style="color: white;">My link tree 🌳</a></h3>
+<h3>Visit <a href="https://blog.vgnshiyer.dev/links" style="color: white;">My link tree 🌳</a></h3>
 
 If you like what I do, consider supporting me by buying me a coffee. Your generosity keeps me motivated to post content, contribute to open source and build new things.
 
