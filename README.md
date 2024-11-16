@@ -14,6 +14,7 @@
 
 <h2>I'm currently learning 📖 </h2>
 
+- NextJs 🧑‍💻
 - exploring new ideas. 🎯
 
 <!-- ABOUT SECTION -->
