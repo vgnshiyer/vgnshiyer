@@ -1,4 +1,4 @@
-![Blue Simple LinkedIn Banner](https://github.com/vgnshiyer/vgnshiyer/assets/39982819/f582f9d0-dca7-4085-abaa-ba4828939f1e)
+![3](https://github.com/user-attachments/assets/a14015d1-2790-4858-b633-bc0746fb4f19)
 
 <!-- HEADING SECTION -->
 <h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=D6543C&center=true&width=435&lines=Hi!%F0%9F%91%8B+I'm+%40vgnshiyer" alt="Typing SVG" /></h1>
