@@ -15,18 +15,20 @@
 <h2>I'm currently learning 📖 </h2>
 
 - NextJs & Django Rest Framework 🧑‍💻
+- hashicorp vault 🤫
 - exploring new ideas. 🎯
 
 <!-- ABOUT SECTION -->
 <h2>About Me 🙋🏻‍♂️</h2>
 
-```python
-# vgnshiyer.py
+```typescript
+// vgnshiyer.ts
 
-class About(Me):
-    
-    def who_am_I(self) -> str:
-        return "I am a Software Engineer trying to make lives better."
+class About extends Me {
+  public whoAmI(): string = () => (
+    "I am Software Engineer trying to make lives better."
+  )
+}
 ```
 
 - 🎯 I believe great software should be free to use and modify, and I am committed to contributing to the open-source community as much as possible.
