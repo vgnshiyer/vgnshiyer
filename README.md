@@ -47,6 +47,7 @@ class About extends Me {
 
 <h3>Visit <a href="https://blog.vgnshiyer.dev/links" style="color: white;">My link tree 🌳</a></h3>
 
+<!---
 If you like what I do, consider supporting me by buying me a coffee. Your generosity keeps me motivated to post content, contribute to open source and build new things.
 
 <a href="https://www.buymeacoffee.com/vgnshiyer" target="_blank">
@@ -56,6 +57,7 @@ If you like what I do, consider supporting me by buying me a coffee. Your genero
         className="mt-0">
     </img>
 </a>
+--->
 
 <!---
 VigneshIyer25/VigneshIyer25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
