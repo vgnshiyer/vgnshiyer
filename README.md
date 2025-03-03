@@ -14,7 +14,7 @@
 
 <h2>I'm currently learning 📖 </h2>
 
-- NextJs & Django Rest Framework 🧑‍💻
+- AI Engineering concepts 🧑‍💻
 - hashicorp vault 🤫
 - exploring new ideas. 🎯
 
