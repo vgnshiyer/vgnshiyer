@@ -15,7 +15,6 @@
 <h2>I'm currently learning 📖 </h2>
 
 - AI Engineering concepts 🧑‍💻
-- hashicorp vault 🤫
 - exploring new ideas. 🎯
 
 <!-- ABOUT SECTION -->
