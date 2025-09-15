@@ -14,7 +14,7 @@
 
 <h2>I'm currently learning 📖 </h2>
 
-- AI Engineering concepts 🧑‍💻
+- Everything
 - exploring new ideas. 🎯
 
 <!-- ABOUT SECTION -->
