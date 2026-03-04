@@ -1,4 +1,4 @@
-![3](https://github.com/user-attachments/assets/a14015d1-2790-4858-b633-bc0746fb4f19)
+<img width="2000" height="600" alt="LinkedIn Article Cover Image" src="https://github.com/user-attachments/assets/03d2bb83-92bb-48c8-a7f0-08c7aa9a5249" />
 
 <!-- HEADING SECTION -->
 <h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=D6543C&center=true&width=435&lines=Hi!%F0%9F%91%8B+I'm+%40vgnshiyer" alt="Typing SVG" /></h1>
