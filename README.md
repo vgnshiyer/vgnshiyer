@@ -1,4 +1,19 @@
-<img width="2000" height="600" alt="vgnshiyer  (5)" src="https://github.com/user-attachments/assets/3a616961-0c51-45fa-890c-8c56c698e663" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/user-attachments/assets/3a616961-0c51-45fa-890c-8c56c698e663"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/user-attachments/assets/e668477d-0a9c-485f-8f33-4d32c0125b4c"
+  />
+  <img
+    width="2000"
+    height="600"
+    alt="Profile banner"
+    src="https://github.com/user-attachments/assets/e668477d-0a9c-485f-8f33-4d32c0125b4c"
+  />
+</picture>
 
 <!-- HEADING SECTION -->
 <!-- <h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=D6543C&center=true&width=435&lines=Hi!%F0%9F%91%8B+I'm+%40vgnshiyer" alt="Typing SVG" /></h1> -->
