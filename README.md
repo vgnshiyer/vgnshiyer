@@ -3,27 +3,17 @@
 <!-- HEADING SECTION -->
 <!-- <h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=D6543C&center=true&width=435&lines=Hi!%F0%9F%91%8B+I'm+%40vgnshiyer" alt="Typing SVG" /></h1> -->
 
+<br><br>
+<I>Good software is like art or music.</I>
+
 <!-- MISC SECTION -->
-<p align="left">
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=vgnshiyer&label=Visitors&color=brightgreen&style=flat" alt="vgnshiyer" /> 
   <img src="https://img.shields.io/badge/opensource-❤-red.svg" alt="opensource" />
   <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vgnshiyer">
     <img src="https://img.shields.io/badge/Follow-vgnshiyer-0A66C2?logo=linkedin" alt="Follow vgnshiyer on LinkedIn">
   </a>
-</p>
-
-<!-- ABOUT SECTION -->
-<h2>About Me 🙋🏻‍♂️</h2>
-
-```typescript
-// vgnshiyer.ts
-
-class About extends Me {
-  public whoAmI(): string = () => (
-    "I build software to make lives better."
-  )
-}
-```
+</p> -->
 
 <!-- SOCIAL HANDLES SECTION -->
 <!-- <h2>Find me on the web: 🌎 </h2>
