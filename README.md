@@ -4,7 +4,7 @@
 <!-- <h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=D6543C&center=true&width=435&lines=Hi!%F0%9F%91%8B+I'm+%40vgnshiyer" alt="Typing SVG" /></h1> -->
 
 <br><br>
-𝒢ℴℴ𝒹 𝓈ℴ𝒻𝓉𝓌𝒶𝓇ℯ 𝒾𝓈 𝓁𝒾𝓀ℯ 𝒶𝓇𝓉 ℴ𝓇 𝓂𝓊𝓈𝒾𝒸.
+“𝒢ℴℴ𝒹 𝓈ℴ𝒻𝓉𝓌𝒶𝓇ℯ 𝒾𝓈 𝓁𝒾𝓀ℯ 𝒶𝓇𝓉 ℴ𝓇 𝓂𝓊𝓈𝒾𝒸.”
 
 <!-- MISC SECTION -->
 <!-- <p align="left">
