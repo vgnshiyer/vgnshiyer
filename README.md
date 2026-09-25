@@ -8,8 +8,6 @@
     srcset="https://github.com/user-attachments/assets/e668477d-0a9c-485f-8f33-4d32c0125b4c"
   />
   <img
-    width="2000"
-    height="600"
     alt="Profile banner"
     src="https://github.com/user-attachments/assets/e668477d-0a9c-485f-8f33-4d32c0125b4c"
   />
