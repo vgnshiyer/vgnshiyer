@@ -1,15 +1,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/user-attachments/assets/3a616961-0c51-45fa-890c-8c56c698e663"
+    srcset="https://github.com/user-attachments/assets/2a6b2fe6-172e-4595-b383-df447fb3858c"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github.com/user-attachments/assets/e668477d-0a9c-485f-8f33-4d32c0125b4c"
+    srcset="https://github.com/user-attachments/assets/a1206366-5661-42c8-b403-fe5195d94584"
   />
   <img
     alt="Profile banner"
-    src="https://github.com/user-attachments/assets/e668477d-0a9c-485f-8f33-4d32c0125b4c"
+    src="https://github.com/user-attachments/assets/a1206366-5661-42c8-b403-fe5195d94584"
   />
 </picture>
 
