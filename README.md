@@ -1,4 +1,4 @@
-<picture>
+<!-- <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://github.com/user-attachments/assets/2a6b2fe6-172e-4595-b383-df447fb3858c"
@@ -11,7 +11,7 @@
     alt="Profile banner"
     src="https://github.com/user-attachments/assets/a1206366-5661-42c8-b403-fe5195d94584"
   />
-</picture>
+</picture> -->
 
 <!-- HEADING SECTION -->
 <!-- <h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=D6543C&center=true&width=435&lines=Hi!%F0%9F%91%8B+I'm+%40vgnshiyer" alt="Typing SVG" /></h1> -->
